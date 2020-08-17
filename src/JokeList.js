@@ -84,6 +84,9 @@ export default class JokeList extends Component {
     }
 
     render() {
+        // sorted array with jokes in order of votes.
+        // let sortedJokes = this.state.jokes.sort((a, b) => b.votes - a.votes);
+        // replace this.state.jokes with sortedJokes for awful user experience.
         const jokes = this.state.jokes.map((j) => (
             <Joke
                 upvote={() => this.handleVote(j.id, 1)}
@@ -116,7 +119,7 @@ export default class JokeList extends Component {
                         onClick={this.handleClick}
                         className="JokeList-getmore"
                     >
-                        New Jokes
+                        Fetch Jokes
                     </button>
                 </div>
                 <div className="JokeList-jokes">{jokes}</div>
