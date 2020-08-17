@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-dad-jokes/static/css/main.6b31de23.chunk.css",
+    "main.js": "/react-dad-jokes/static/js/main.a48e5107.chunk.js",
+    "main.js.map": "/react-dad-jokes/static/js/main.a48e5107.chunk.js.map",
+    "runtime-main.js": "/react-dad-jokes/static/js/runtime-main.645ba76d.js",
+    "runtime-main.js.map": "/react-dad-jokes/static/js/runtime-main.645ba76d.js.map",
+    "static/css/2.210ec688.chunk.css": "/react-dad-jokes/static/css/2.210ec688.chunk.css",
+    "static/js/2.971ebdf9.chunk.js": "/react-dad-jokes/static/js/2.971ebdf9.chunk.js",
+    "static/js/2.971ebdf9.chunk.js.map": "/react-dad-jokes/static/js/2.971ebdf9.chunk.js.map",
+    "index.html": "/react-dad-jokes/index.html",
+    "precache-manifest.b5642967e881f22728ee1a34f1068cc9.js": "/react-dad-jokes/precache-manifest.b5642967e881f22728ee1a34f1068cc9.js",
+    "service-worker.js": "/react-dad-jokes/service-worker.js",
+    "static/css/2.210ec688.chunk.css.map": "/react-dad-jokes/static/css/2.210ec688.chunk.css.map",
+    "static/css/main.6b31de23.chunk.css.map": "/react-dad-jokes/static/css/main.6b31de23.chunk.css.map",
+    "static/js/2.971ebdf9.chunk.js.LICENSE.txt": "/react-dad-jokes/static/js/2.971ebdf9.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/react-dad-jokes/static/media/fa-solid-900.ee09ad75.woff",
+    "static/media/logo.svg": "/react-dad-jokes/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.645ba76d.js",
+    "static/css/2.210ec688.chunk.css",
+    "static/js/2.971ebdf9.chunk.js",
+    "static/css/main.6b31de23.chunk.css",
+    "static/js/main.a48e5107.chunk.js"
+  ]
+}
